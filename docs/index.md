@@ -4,7 +4,17 @@ You can use the [editor on GitHub](https://github.com/redwerkz/w10/edit/master/i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### System
+
+#### OS
+
+Windows 10 
+
+#### Tools
+
+WSUS Offline Updater
+website url: http://wsusoffline.net
+latest release: v10.9.2, 19.03.2017
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
