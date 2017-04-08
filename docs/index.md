@@ -12,9 +12,7 @@ Windows 10
 
 #### Tools
 
-WSUS Offline Updater
-website url: http://wsusoffline.net
-latest release: v10.9.2, 19.03.2017
+WSUS Offline Updater http://wsusoffline.net `10.9.2` _19.03.2017_
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
