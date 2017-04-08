@@ -6,22 +6,20 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### System
 
-#### OS
+OS/Windows 10 `2017.4`
 
-Windows 10 
+SYS
+-/Updates/WSUS Offline Updater http://wsusoffline.net `2017.3.-10.9.2` 
+-/Driver/
+-/Packages/Chocolatey https://chocolatey.org/ `2017.3.0.10.5` 
 
-#### Tools
+APP
+Internet Browser/Chrome
+Externsion/
+Theme/Developer Dark
+DEV
 
-WSUS Offline Updater http://wsusoffline.net `10.9.2` _19.03.2017_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
