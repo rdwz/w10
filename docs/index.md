@@ -16,24 +16,19 @@ System
 -/Packages/Chocolatey https://chocolatey.org/ `2017.3.0.10.5` 
 
 Apps
-  - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) `Audio Equalizer`
-  - [Chrome](https://www.google.com/intl/de/chrome/browser/desktop/) `Web Browser`
-    - Externsion
-      - Cat ▸ one
-    - Theme ▸ Developer Dark
-  - [Notepad++](https://notepad-plus-plus.org/) `Text Editor`
-  - [MPV](https://mpv.io/) `Video Player`
-  - [BleachBit](http://www.bleachbit.org/) `System Cleaner`
-  - [KeePass](http://keepass.info/) `Password Safe`
-    - [Favicon Downloader](https://sourceforge.net/projects/keepass-favicon/) `KeePass Plugin`
+- [BleachBit](http://www.bleachbit.org/) `System > System Cleaner`
+- [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) `Multimedia > Audio Equalizer`
+- [Chocolatey](https://chocolatey.org/) `System > Package Manager`
+- [Chrome](https://www.google.com/intl/de/chrome/browser/desktop/) `Internet > Web Browser`
+  - Externsion
+    - Cat ▸ one
+  - Theme ▸ Developer Dark
+- [KeePass](http://keepass.info/) `Security > Password Safe`
+  - [Favicon Downloader](https://sourceforge.net/projects/keepass-favicon/) `Plugin`
+- [Notepad++](https://notepad-plus-plus.org/) `Text Editor`
+- [MPV](https://mpv.io/) `Multimedia > Video Player`
 
 DEV
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
