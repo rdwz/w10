@@ -15,16 +15,19 @@ System
 -/Driver Updates/
 -/Packages/Chocolatey https://chocolatey.org/ `2017.3.0.10.5` 
 
-APP
-Internet Browser▸ Google Chrome
-Externsion/
-Theme/Developer Dark
-🖊️ Text Editor ▸ [Notepad++](https://notepad-plus-plus.org/)
-Video Player ▸ [MPV](https://mpv.io/)
+Apps
+  - [Equalizer APO](https://sourceforge.net/projects/equalizerapo/) `Audio Equalizer`
+  - [Chrome](https://www.google.com/intl/de/chrome/browser/desktop/) `Web Browser`
+    - Externsion
+      - Cat ▸ one
+    - Theme ▸ Developer Dark
+  - [Notepad++](https://notepad-plus-plus.org/) `Text Editor`
+  - [MPV](https://mpv.io/) `Video Player`
+  - [BleachBit](http://www.bleachbit.org/) `System Cleaner`
+  - [KeePass](http://keepass.info/) `Password Safe`
+    - [Favicon Downloader](https://sourceforge.net/projects/keepass-favicon/) `KeePass Plugin`
 
 DEV
-
-
 
 - Bulleted
 - List
