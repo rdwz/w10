@@ -16,9 +16,12 @@ System
 -/Packages/Chocolatey https://chocolatey.org/ `2017.3.0.10.5` 
 
 APP
-Internet Browser/Chrome
+Internet Browser▸ Google Chrome
 Externsion/
 Theme/Developer Dark
+🖊️ Text Editor ▸ [Notepad++](https://notepad-plus-plus.org/)
+Video Player ▸ [MPV](https://mpv.io/)
+
 DEV
 
 
