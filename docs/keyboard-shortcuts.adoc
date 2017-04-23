@@ -1,8 +1,8 @@
 = Keyboard Shortcuts
 :experimental:
 
-# http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#ui-macros
-# http://mrhaki.blogspot.de/2015/04/awesome-asciidoctor-display-keyboard.html
+// http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#ui-macros
+// http://mrhaki.blogspot.de/2015/04/awesome-asciidoctor-display-keyboard.html
 
 http://www.laptopmag.com/articles/create-keyboard-shortcuts-windows-10
 http://www.makeuseof.com/tag/custom-windows-keyboard-shortcuts/
@@ -11,18 +11,18 @@ http://www.makeuseof.com/tag/custom-windows-keyboard-shortcuts/
 // Need to be enabled for keyboard macros.
 
 
+
 == Windows 10
 
-=== File Explorer
-
+.File Explorer
 |===
 |Shorcut |Purpose
 
 |kbd:[Win+D]
-|Hide/restore all windows.
+|Hide/restore all windows
 
 |kbd:[Win+E]
-|Launch File Explorer.
+|Launch File Explorer
 |===
 
 https://support.microsoft.com/en-us/help/126449/keyboard-shortcuts-for-windows[Keyboard shortcuts for Windows]
@@ -41,6 +41,12 @@ https://support.microsoft.com/en-us/help/126449/keyboard-shortcuts-for-windows[K
 |kbd:[Ctrl+Shift+N]
 |New incognito window
 
-|kbd:[Ctrl + +]
-|Increase zoom
+|kbd:[Ctrl++]
+|Zoom in on current page
+
+|kbd:[Ctrl+-]
+|Zoom out on current page
+
+|kbd:[Ctrl+0]
+|Reset page zoom to default value
 |===
