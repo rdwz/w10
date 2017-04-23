@@ -19,7 +19,7 @@ http://www.makeuseof.com/tag/custom-windows-keyboard-shortcuts/
 |Shorcut |Purpose
 
 |kbd:[Win+D]
-|Hide/restore all windows
+|Toogle hide/restore all windows
 
 |kbd:[Win+E]
 |Launch File Explorer
@@ -41,12 +41,53 @@ https://support.microsoft.com/en-us/help/126449/keyboard-shortcuts-for-windows[K
 |kbd:[Ctrl+Shift+N]
 |New incognito window
 
-|kbd:[Ctrl++]
-|Zoom in on current page
-
-|kbd:[Ctrl+-]
-|Zoom out on current page
+|kbd:[Ctrl++]&#32;/&#32;kbd:[-]
+|Zoom in/out on current page
 
 |kbd:[Ctrl+0]
 |Reset page zoom to default value
+|===
+
+== Internet
+
+.YouTube
+|===
+|Shorcut |Action
+
+|kbd:[k] or kbd:[Space] |Toggle play/pause the video
+k or Spacebar
+Go back 5 seconds
+Left arrow
+Go back 10 seconds
+j 
+Go forward 5 seconds   
+Right arrow
+Go forward 10 seconds
+l
+Skip to a particular section of the video (e.g., 5 goes to the video midpoint)
+Numbers 1-9 (not the keypad numbers)
+Restart video
+0 (not the keypad number)
+Go to Full Screen mode	f
+Exit Full Screen mode   
+Escape
+Go to beginning of video
+Home
+Go to end of video
+End
+Increase volume 5%
+Up arrow
+Decrease volume 5%
+Down arrow        
+Increase speed
+Shift+> (may not work in all browsers) or Shift+. (period)
+Decrease speed
+Shift+< (may not work in all browsers)  or Shift+, (comma)     
+Move forward 1 frame when video is paused	. (period)
+Move backward 1 frame when video is paused	, (comma)
+Mute/unmute video	m
+Turn captions on/off	c
+Cycle through options for caption background color	b   
+Move to the previous video in a playlist       	Shift+p
+Move to the next video in a playlist       	Shift+n
 |===
