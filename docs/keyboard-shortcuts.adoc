@@ -1,0 +1,46 @@
+= Keyboard Shortcuts
+:experimental:
+
+# http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#ui-macros
+# http://mrhaki.blogspot.de/2015/04/awesome-asciidoctor-display-keyboard.html
+
+http://www.laptopmag.com/articles/create-keyboard-shortcuts-windows-10
+http://www.makeuseof.com/tag/custom-windows-keyboard-shortcuts/
+
+
+// Need to be enabled for keyboard macros.
+
+
+== Windows 10
+
+=== File Explorer
+
+|===
+|Shorcut |Purpose
+
+|kbd:[Win+D]
+|Hide/restore all windows.
+
+|kbd:[Win+E]
+|Launch File Explorer.
+|===
+
+https://support.microsoft.com/en-us/help/126449/keyboard-shortcuts-for-windows[Keyboard shortcuts for Windows]
+
+== Chrome
+
+|===
+|Shorcut |Purpose
+
+|kbd:[F11]
+|Toggle fullscreen
+
+|kbd:[Ctrl+T]
+|Open a new tab
+
+|kbd:[Ctrl+Shift+N]
+|New incognito window
+
+|kbd:[Ctrl + +]
+|Increase zoom
+|===
